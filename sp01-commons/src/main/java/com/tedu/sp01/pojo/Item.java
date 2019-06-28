@@ -13,7 +13,7 @@ public class Item {
 	//Ãû³Æ
 	private String name;
 	private Integer number;
-	
+	//¼Ó×¢ÊÍ
 	//1111111111
 	//33333333
 }
